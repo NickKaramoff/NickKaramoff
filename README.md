@@ -10,4 +10,4 @@ My projects include, but are not limited to:
 * [🐘 toot](https://toot.karamoff.dev/) — a cross-instance share page for Mastodon
 * [📮 ip](https://github.com/NickKaramoff/ip) — a dead simple endpoint to get one’s IP address
 
-Want to contact me? Keep in mind, **I am not looking for a job**. Otherwise, you can [e-mail me](mailto:github@karamoff.dev) (optionally — [with PGP](https://github.com/NickKaramoff/pgp)) or [text me on Telegram](https://t.me/NickKaramoff). You can also find me <a rel="me" href="https://fosstodon.org/@NickKaramoff">on Mastodon</a>!
+Want to contact me? Keep in mind, **I am not looking for a job**. Otherwise, you can [e-mail me](mailto:nick@karamoff.dev) (optionally — [with PGP](https://github.com/NickKaramoff/pgp)) or [text me on Telegram](https://t.me/NickKaramoff). You can also find me <a rel="me" href="https://fosstodon.org/@NickKaramoff">on Mastodon</a>!
