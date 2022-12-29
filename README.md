@@ -1,5 +1,5 @@
 Hi, my name is Nikita, and I am a developer. Read more about me
-[on my website°](https://www.kytta.dev/).
+[on my website](https://www.kytta.dev/).
 
 -----
 
@@ -16,5 +16,5 @@ I urge you to read about the [Give up GitHub](https://GiveUpGitHub.org) campaign
 from [the Software Freedom Conservancy](https://sfconservancy.org) to understand
 some of the reasons why GitHub is not a good place to host FOSS projects.
 
-Any use of my code by GitHub Copilot, past or present, is done without
-my permission. I do not consent to GitHub's use of my code in Copilot.
+**Any use of my code by GitHub Copilot, past or present, is done without
+my permission. I do not consent to GitHub's use of my code in Copilot.**
