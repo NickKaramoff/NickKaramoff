@@ -1,20 +1,5 @@
 Hi, my name is Nikita, and I am a developer. Read more about me
 [on my website](https://www.kytta.dev/).
 
------
-
-# I am using GitHub under protest.
-
-Many of my projects are still hosted on GitHub. This is not ideal; GitHub
-is a proprietary, trade-secret system that is not Free and Open Souce Software.
-I am deeply concerned about using a proprietary system like GitHub to develop
-my FOSS projects. I have a [profile on Codeberg](https://codeberg.org/kytta/),
-where I am currently migrating my projects to. All my repositories on GitHub
-will be eventually replaced with mirrors. 
-
-I urge you to read about the [Give up GitHub](https://GiveUpGitHub.org) campaign
-from [the Software Freedom Conservancy](https://sfconservancy.org) to understand
-some of the reasons why GitHub is not a good place to host FOSS projects.
-
-**Any use of my code by GitHub Copilot, past or present, is done without
-my permission. I do not consent to GitHub's use of my code in Copilot.**
+![GitHub Stats](https://github-readme-stats-kappa-three-15.vercel.app/api?username=kytta&show_icons=true&count_private=true&theme=transparent&hide_border=true&disable_animations=true)\
+![Most used languages](https://github-readme-stats-kappa-three-15.vercel.app/api/top-langs/?username=kytta&hide=html,shell,css,scss,pug,mustache,makefile&langs_count=8&layout=compact&theme=transparent&hide_border=true&disable_animations=true)
